@@ -1,3 +1,23 @@
+Live Demo 👉 https://react-redux-ecommerce-c7681.web.app/cart
+
+![Screenshot from 2021-04-04 11-59-33](https://user-images.githubusercontent.com/74534919/113500748-279c5580-953e-11eb-80e7-4dba183e3946.png)
+![Screenshot from 2021-04-04 11-59-55](https://user-images.githubusercontent.com/74534919/113500751-29661900-953e-11eb-930c-35870649fd08.png)
+![Screenshot from 2021-04-04 12-00-00](https://user-images.githubusercontent.com/74534919/113500753-2c610980-953e-11eb-9f42-bd542b469a13.png)
+![Screenshot from 2021-04-04 12-00-06](https://user-images.githubusercontent.com/74534919/113500754-2ec36380-953e-11eb-9617-eabafdd2d2db.png)
+
+
+
+<details open="open">
+  <summary>Tools/Packages</summary>
+  <ul><li>React.Js</li>
+    <li>Redux</li>
+    <li>CSS-3</li>
+    <li>HTML-5</li>
+    <li>Firebase</li>
+  </ul>
+</details>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
