@@ -1,4 +1,4 @@
-Live Demo 👉 https://react-redux-ecommerce-c7681.web.app/cart
+Live Demo 👉 https://react-redux-ecommerce-c7681.web.app/
 
 ![Screenshot from 2021-04-04 11-59-33](https://user-images.githubusercontent.com/74534919/113500748-279c5580-953e-11eb-80e7-4dba183e3946.png)
 ![Screenshot from 2021-04-04 11-59-55](https://user-images.githubusercontent.com/74534919/113500751-29661900-953e-11eb-930c-35870649fd08.png)
